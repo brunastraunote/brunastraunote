@@ -58,5 +58,7 @@ I am a huge basketball fan and love watching games and playing whenever I get th
 - 🌍 **Collaborate with developers worldwide**
 
 ---
+![Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/achievements/share/fr-fr/Adedoyi/AEGSF5D7?sharingId=D33772577DFA2507)
+
 
 Thanks for visiting my profile! Feel free to contact me for any opportunity or just to chat about technology and computer science.
