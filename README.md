@@ -18,13 +18,6 @@ You can reach me through various channels:
 - **Snapchat**: [@adedoyi.og](https://www.snapchat.com/add/adedoyi.og)
 - **Email**: [adedoyi.og@gmail.com](mailto:adedoyi.og@gmail.com)
 
-## 📈 Social Media
-Follow me on social media to stay updated on my latest projects and activities!
-[![X Follow](https://img.shields.io/twitter/follow/brunastraunote?style=social)](https://x.com/OmarGbadamassi)
-[![GitHub Followers](https://img.shields.io/github/followers/brunastraunote?style=social)](https://github.com/brunastraunote)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-brunastraunote-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/OmarGbadamassi)
-[![Instagram Follow](https://img.shields.io/badge/Instagram-adedoyi.og-red?style=flat&logo=instagram)](https://www.instagram.com/adedoyi.og/)
-[![Snapchat Add](https://img.shields.io/badge/Snapchat-adedoyi.og-yellow?style=flat&logo=snapchat)](https://www.snapchat.com/add/adedoyi.og)
 
 ## 😄 Pronouns
 He/Him
@@ -48,6 +41,17 @@ I am a huge basketball fan and love watching games and playing whenever I get th
 
 - [**Ruby on Rails Project**](https://github.com/brunastraunote/ruby-on-rails-project): A fascinating project I am currently working on to learn and experiment with Ruby on Rails.
 - [**Python Project**](https://github.com/brunastraunote/python-project): A project to enhance my Python skills by exploring various applications.
+
+---
+
+## 📈 Social Media
+Follow me on social media to stay updated on my latest projects and activities!
+
+[![X Follow](https://img.shields.io/twitter/follow/brunastraunote?style=social)](https://x.com/OmarGbadamassi)
+[![GitHub Followers](https://img.shields.io/github/followers/brunastraunote?style=social)](https://github.com/brunastraunote)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brunastraunote-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/OmarGbadamassi)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-adedoyi.og-red?style=flat&logo=instagram)](https://www.instagram.com/adedoyi.og/)
+[![Snapchat Add](https://img.shields.io/badge/Snapchat-adedoyi.og-yellow?style=flat&logo=snapchat)](https://www.snapchat.com/add/adedoyi.og)
 
 ---
 
