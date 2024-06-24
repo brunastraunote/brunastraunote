@@ -11,12 +11,18 @@ I am open to all kinds of collaborations and always looking for new adventures. 
 
 ## 📫 How to Reach Me
 You can reach me through various channels:
-- **Instagram**: [@adedoyi.og](https://www.instagram.com/adedoyi.og)
-- **X**: [@OmarGbadamassi](https://x.com/OmarGbadamassi)
+- **Instagram**: [@adedoyi.og](https://www.instagram.com/adedoyi.og/)
+- **X (Twitter)**: [@OmarGbadamassi](https://x.com/OmarGbadamassi)
 - **Discord**: [@adedoyi_og](https://discord.com)
 - **Telegram**: [@adedoyi_og](https://t.me/adedoyi_og)
 - **Snapchat**: [@adedoyi.og](https://www.snapchat.com/add/adedoyi.og)
 - **Email**: [adedoyi.og@gmail.com](mailto:adedoyi.og@gmail.com)
+
+## 📈 Social Media
+Follow me on social media to stay updated on my latest projects and activities!
+- [![X Follow](https://img.shields.io/twitter/follow/OmarGbadamassi?style=social)](https://x.com/OmarGbadamassi)
+- [![GitHub Followers](https://img.shields.io/github/followers/brunastraunote?style=social)](https://github.com/brunastraunote)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-OmarGbadamassi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/OmarGbadamassi)
 
 ## 😄 Pronouns
 He/Him
@@ -38,16 +44,8 @@ I am a huge basketball fan and love watching games and playing whenever I get th
 
 ### 🎨 Pinned Projects
 
-
----
-
-### 📈 Social Media
-
-[![X Follow](https://img.shields.io/twitter/follow/brunastraunote?style=social)](https://x.com/OmarGbadamassi)
-[![GitHub Followers](https://img.shields.io/github/followers/brunastraunote?style=social)](https://github.com/brunastraunote)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-brunastraunote-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/OmarGbadamassi)
-[![Instagram Follow](https://img.shields.io/badge/Instagram-adedoyi.og-red?style=flat&logo=instagram)](https://www.instagram.com/adedoyi.og/)
-[![Snapchat Add](https://img.shields.io/badge/Snapchat-adedoyi.og-yellow?style=flat&logo=snapchat)](https://www.snapchat.com/add/adedoyi.og)
+- [**Ruby on Rails Project**](https://github.com/brunastraunote/ruby-on-rails-project): A fascinating project I am currently working on to learn and experiment with Ruby on Rails.
+- [**Python Project**](https://github.com/brunastraunote/python-project): A project to enhance my Python skills by exploring various applications.
 
 ---
 
@@ -56,6 +54,16 @@ I am a huge basketball fan and love watching games and playing whenever I get th
 - 🎓 **Improve my skills in Ruby and Ruby on Rails**
 - 🧠 **Explore artificial intelligence and machine learning**
 - 🌍 **Collaborate with developers worldwide**
+
+---
+
+## 🏆 Badges and Certifications
+
+Here are some of the badges and certifications I've earned:
+
+- ![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-blue?style=flat&logo=microsoft)
+- ![Microsoft Certified: Azure Developer Associate](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Developer%20Associate-blue?style=flat&logo=microsoft)
+- ![Microsoft Certified: Azure AI Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Fundamentals-blue?style=flat&logo=microsoft)
 
 ---
 
