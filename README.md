@@ -46,8 +46,8 @@ I am a huge basketball fan and love watching games and playing whenever I get th
 [![X Follow](https://img.shields.io/twitter/follow/brunastraunote?style=social)](https://x.com/OmarGbadamassi)
 [![GitHub Followers](https://img.shields.io/github/followers/brunastraunote?style=social)](https://github.com/brunastraunote)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-brunastraunote-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/OmarGbadamassi)
-[![Instagram Follow](https://img.shields.io/badge/Instagram-adedoyi.og-red?style=flat&logo=instagram)](https://www.instagram.com/adedoyi.og/)
-[![Snapchat Add](https://img.shields.io/badge/Snapchat-adedoyi.og-yellow?style=flat&logo=snapchat)](https://www.snapchat.com/add/adedoyi.og)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-brunastraunote-red?style=flat&logo=instagram)](https://www.instagram.com/adedoyi.og/)
+[![Snapchat Add](https://img.shields.io/badge/Snapchat-brunastraunote-yellow?style=flat&logo=snapchat)](https://www.snapchat.com/add/adedoyi.og)
 
 ---
 
