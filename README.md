@@ -20,9 +20,11 @@ You can reach me through various channels:
 
 ## 📈 Social Media
 Follow me on social media to stay updated on my latest projects and activities!
-- [![X Follow](https://img.shields.io/twitter/follow/OmarGbadamassi?style=social)](https://x.com/OmarGbadamassi)
-- [![GitHub Followers](https://img.shields.io/github/followers/brunastraunote?style=social)](https://github.com/brunastraunote)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-OmarGbadamassi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/OmarGbadamassi)
+[![X Follow](https://img.shields.io/twitter/follow/brunastraunote?style=social)](https://x.com/OmarGbadamassi)
+[![GitHub Followers](https://img.shields.io/github/followers/brunastraunote?style=social)](https://github.com/brunastraunote)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brunastraunote-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/OmarGbadamassi)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-adedoyi.og-red?style=flat&logo=instagram)](https://www.instagram.com/adedoyi.og/)
+[![Snapchat Add](https://img.shields.io/badge/Snapchat-adedoyi.og-yellow?style=flat&logo=snapchat)](https://www.snapchat.com/add/adedoyi.og)
 
 ## 😄 Pronouns
 He/Him
