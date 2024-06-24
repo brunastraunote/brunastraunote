@@ -43,7 +43,7 @@ I am a huge basketball fan and love watching games and playing whenever I get th
 
 ### 📈 Social Media
 
-[![X Follow](https://img.shields.io/twitter/follow/brunastraunote?style=social)](https://twitter.com/brunastraunote)
+[![X Follow](https://img.shields.io/twitter/follow/brunastraunote?style=social)](https://x.com/OmarGbadamassi)
 [![GitHub Followers](https://img.shields.io/github/followers/brunastraunote?style=social)](https://github.com/brunastraunote)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-brunastraunote-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/brunastraunote)
 
