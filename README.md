@@ -11,7 +11,7 @@ I am open to all kinds of collaborations and always looking for new adventures. 
 
 ## 📫 How to Reach Me
 You can reach me through various channels:
-- **Instagram**: [@adedoyi.og](https://www.instagram.com/adedoyi.og/)
+- **Instagram**: [@adedoyi.og](https://www.instagram.com/adedoyi.og)
 - **X**: [@OmarGbadamassi](https://x.com/OmarGbadamassi)
 - **Discord**: [@adedoyi_og](https://discord.com)
 - **Telegram**: [@adedoyi_og](https://t.me/adedoyi_og)
@@ -43,7 +43,8 @@ I am a huge basketball fan and love watching games and playing whenever I get th
 
 ### 📈 Social Media
 
-[![X Follow](https://img.shields.io/twitter/follow/brunastraunote?style=social)](https://x.com/OmarGbadamassi)
+[![X Follow](https://img.shields.io/X/follow/brunastraunote?style=social)](https://x.com/OmarGbadamassi)
+[![Instagram Followers](https://img.shields.io/Instagram/follow/brunastraunote?style=social)](https://www.instagram.com/adedoyi.og)
 [![GitHub Followers](https://img.shields.io/github/followers/brunastraunote?style=social)](https://github.com/brunastraunote)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-brunastraunote-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/OmarGbadamassi)
 
